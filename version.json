@@ -1,7 +1,7 @@
 {
-  "versionName": "0.3.1 Alpha",
-  "versionCode": 5,
-  "apkUrl": "https://github.com/mrt81el-dev/ms-tactiva-alpha-updates/releases/download/v0.3.1-alpha/MS-Tactiva-0.3.1-Alpha.apk",
+  "versionName": "0.9 Alpha",
+  "versionCode": 12,
+  "apkUrl": "https://github.com/mrt81el-dev/ms-tactiva-alpha-updates/releases/download/v0.9-alpha/MS-Tactiva-0.9-Alpha.apk",
   "mandatory": false,
-  "notes": "V0.3.1 Alpha: mobil arayüz ve dokunmatik düzeltmeleri, maç ekranı katman düzeltmesi, yeni kulüp arma görünümü ve 3 farklı menü müziği seçimi."
+  "notes": "0.9 Alpha: transfer ve oyuncu performans sistemi, sezon istatistikleri, oyuncu profili geliştirmeleri, kulüp ekonomisi, kayıt ve maç günü altyapısı iyileştirmeleri."
 }
