@@ -1,7 +1,7 @@
 {
-  "versionName": "0.9 Alpha",
-  "versionCode": 12,
-  "apkUrl": "https://github.com/mrt81el-dev/ms-tactiva-alpha-updates/releases/download/v0.9-alpha/MS-Tactiva-0.9-Alpha.apk",
+  "versionName": "1.0 Alpha",
+  "versionCode": 13,
+  "apkUrl": "https://github.com/mrt81el-dev/ms-tactiva-alpha-updates/releases/download/v1.0-alpha/MS-Tactiva-1.0-Alpha.apk",
   "mandatory": false,
-  "notes": "0.9 Alpha: transfer ve oyuncu performans sistemi, sezon istatistikleri, oyuncu profili geliştirmeleri, kulüp ekonomisi, kayıt ve maç günü altyapısı iyileştirmeleri."
+  "notes": "1.0 Alpha: yenilenen kariyer başlangıcı ve animasyonlar, takım ve oyuncu oluşturma düzeltmeleri, ayrıntılı oyuncu kartları ve transfer teklifleri, lig istatistikleri, kalıcı gol-asist-kart-reyting verileri, çoklu kariyer kayıtları, geliştirilmiş ayarlar ve ana menü, Çilimli SK ile Nuh Saka içeriği ve hareketlendirilmiş canlı maç ekranı."
 }
