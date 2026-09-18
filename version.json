@@ -1,7 +1,7 @@
 {
-  "versionName": "1.0.8 Alpha Code 22",
-  "versionCode": 22,
-  "apkUrl": "https://github.com/mrt81el-dev/ms-tactiva-alpha-updates/releases/download/v1.0.8-alpha-code22/MS-Tactiva-1.0.8-Alpha.apk",
+  "versionName": "1.0.15 Alpha",
+  "versionCode": 29,
+  "apkUrl": "https://github.com/mrt81el-dev/ms-tactiva-alfa-guncellemeleri/releases/download/v1.0.15-alpha/MS-Tactiva-1.0.15-Alpha.apk",
   "mandatory": false,
-  "notes": "Canlı maçın üzerine binen geçici ekran kaldırıldı ve asıl TRUE LIVE ekranı geri getirildi. Kariyer haftasının 1. haftaya dönmesine yol açan kayıt hatası giderildi."
+  "notes": "Tesisler gruplandırıldı, Türkiye Kupası takvimi düzeltildi, lig haftalarının kupada kaybolması önlendi, fikstüre tarihler ve turnuva sekmeleri eklendi, Murat Elmalı yaşı 22 olarak düzeltildi."
 }
