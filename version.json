@@ -1,7 +1,7 @@
 {
-  "versionName": "1.0.7 Alpha Code 21",
-  "versionCode": 21,
-  "apkUrl": "https://github.com/mrt81el-dev/ms-tactiva-alpha-updates/releases/download/v1.0.7-alpha-code21/MS-Tactiva-1.0.7-Alpha.apk",
+  "versionName": "1.0.8 Alpha Code 22",
+  "versionCode": 22,
+  "apkUrl": "https://github.com/mrt81el-dev/ms-tactiva-alpha-updates/releases/download/v1.0.8-alpha-code22/MS-Tactiva-1.0.8-Alpha.apk",
   "mandatory": false,
-  "notes": "Premium canlı maç ekranı maç motoruna bağlandı; hareketli oyuncular, top animasyonu, canlı istatistikler ve gelişmiş maç kontrolleri eklendi."
+  "notes": "Canlı maçın üzerine binen geçici ekran kaldırıldı ve asıl TRUE LIVE ekranı geri getirildi. Kariyer haftasının 1. haftaya dönmesine yol açan kayıt hatası giderildi."
 }
