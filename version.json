@@ -1,7 +1,7 @@
 {
-  "versionName": "1.0.5 Alpha Code 19",
-  "versionCode": 19,
-  "apkUrl": "https://github.com/mrt81el-dev/ms-tactiva-alpha-updates/releases/download/v1.0.5-alpha-code19/MS-Tactiva-1.0.5-Alpha.apk",
+  "versionName": "1.0.6 Alpha Code 20",
+  "versionCode": 20,
+  "apkUrl": "https://github.com/mrt81el-dev/ms-tactiva-alpha-updates/releases/download/v1.0.6-alpha-code20/MS-Tactiva-1.0.6-Alpha.apk",
   "mandatory": false,
-  "notes": "Sözleşme gelen kutusu, sözleşme yenileme, sezon sonu süre takibi, düzeltilmiş kadro sürükle-bırak sistemi ve ekranı açık tutma özelliği eklendi."
+  "notes": "True Live ekranı düzeltildi. Kariyer listesi onarıldı. Gelişmiş sözleşme görüşmeleri, asistan transfer gelen kutusu ve güçlendirilmiş oyuncu detayları eklendi."
 }
